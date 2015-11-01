@@ -40,3 +40,8 @@ There are some command-line options, to see which:
 [ecbmoo]: https://en.wikipedia.org/wiki/Block_cipher_mode_of_operation#Electronic_Codebook_.28ECB.29
 [golang]: https://golang.org/
 
+Example output
+--------------
+![Example output of visualmoo (01)](example01.png "Example output of visualmoo")
+![Example output of visualmoo (02)](example02.png "Example output of visualmoo")
+![Example output of visualmoo (03)](example03.png "Example output of visualmoo")
